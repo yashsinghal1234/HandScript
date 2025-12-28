@@ -23,7 +23,7 @@ HandScript is a powerful web-based tool that converts digital text into images t
 
 ## 🌠 Sample Output
 
-<img width="400" alt="Sample image of output" src="sample.jpeg" />
+<img width="400" alt="Sample image of output" src="sample.jpg" />
 
 ## 🚀 Quick Start
 
